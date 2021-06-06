@@ -18,6 +18,9 @@ A Boilerplate for next with preconfigured listing for an open Graphql Endpoint
 2. Run
    - `yarn run dev`
 
+3. Environment variables
+   - Make sure `.env` is set up as per the example.
+
 ## Development Principles and Conventions
 
 1. Componenets Use Atom, molecules, Organism Structure.
